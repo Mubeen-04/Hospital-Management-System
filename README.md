@@ -80,13 +80,7 @@ private static final String password = "YOUR_PASSWORD";
      * Book appointments.
      * Exit the system.
 
----
 
-## Demo
-
-Watch the demo here: [YouTube Project Video](http://youtube.com/watch?v=ECoIdyfcObE&t=4011s)
-
----
 
 ## Future Enhancements
 
@@ -94,24 +88,6 @@ Watch the demo here: [YouTube Project Video](http://youtube.com/watch?v=ECoIdyfc
 * Implement **role-based access** for admins, doctors, and patients.
 * Include **report generation** and statistics.
 
----
 
-## Author
-
-**Abdul Mubeen Shaikh**
-
-* GitHub: [https://github.com/Mubeen-04](https://github.com/Mubeen-04)
-* LinkedIn: [https://www.linkedin.com/in/samubeen](https://www.linkedin.com/in/samubeen)
-
-```
-
----
-
-This version includes **all installation steps, SQL scripts, and usage instructions**, making it easy for anyone to run your project.  
-
-If you want, I can also make a **slim version for recruiters** that highlights **features, technologies, and a demo link only**. This is perfect for your GitHub resume link.  
-
-Do you want me to make that?
-```
 
 
