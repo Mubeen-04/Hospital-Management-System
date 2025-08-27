@@ -1,8 +1,3 @@
-﻿# Hospital Management System
-
-Sure! Here’s a **step-by-step README.md** with clear instructions included so you can copy-paste it directly:
-
-````markdown
 # Hospital Management System (Java)
 
 A **console-based Hospital Management System** developed in Java with MySQL integration. This project allows users to manage patients, doctors, and appointments efficiently, demonstrating object-oriented programming principles and database connectivity using JDBC.
@@ -118,4 +113,5 @@ If you want, I can also make a **slim version for recruiters** that highlights *
 
 Do you want me to make that?
 ```
+
 
